@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@700&display=swap");
+
+.App {
+  font-family: "Scheherazade New", serif;
+  text-align: center;
+  max-width: 42rem;
+  padding: 2rem;
+  margin: auto;
+}
+
+body {
+  background-color: lightskyblue;
+  display: block;
+  font-size: large;
+  margin: 8px;
+}
+
+input {
+  padding: 1rem;
+  width: 70%;
+}
+
+.btn-genre {
+  font-family: "Scheherazade New", serif;
+  background-color: lightpink;
+  border-radius: 0.5rem;
+  padding: 0.7rem;
+  font-size: large;
+  border: 1px solid;
+  cursor: pointer;
+  margin: 1rem;
+}
+
+.list-non-bullet {
+  background-color: lightpink;
+  list-style: none;
+  border: 1px solid;
+  margin: 1rem;
+  border-radius: 1rem;
+}
